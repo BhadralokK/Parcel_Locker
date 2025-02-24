@@ -1,0 +1,171 @@
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\ParcelLockerKiosk.exe.config
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\ParcelLockerKiosk.exe
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\ParcelLockerKiosk.pdb
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.csprojResolveAssemblyReference.cache
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ChooseUserType.resources
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ConfirmDetailsLockerOpen.resources
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.Home.resources
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.OTPVerification.resources
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.ScanShippingNoteNo.resources
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.SearchShippingNoteNo.resources
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.VerifyCustomerDetails.resources
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.Properties.Resources.resources
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ScanShippingNoteNo.resources
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.SelectDropLocker.resources
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.SelectEmployeeId.resources
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ShippingNoteNo.resources
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.SuccessfulDropMessage.resources
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.TakePhoto.resources
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.csproj.GenerateResource.Cache
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.exe
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.pdb
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.CollectParcel.resources
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.CustomerPhotoWithIdCard.resources
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.AdminLogin.resources
+F:\Santosh_Project\PARCEL_LOCKER_KIOSK\BVC_ParceLockerKiosk\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.AdminPanel.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\ParcelLockerKiosk.exe.config
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.exe
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.pdb
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\ParcelLockerKiosk.exe
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\ParcelLockerKiosk.pdb
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.csprojResolveAssemblyReference.cache
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.AdminLogin.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.AdminPanel.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ChooseUserType.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ConfirmDetailsLockerOpen.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.Home.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.CollectParcel.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.CustomerPhotoWithIdCard.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.OTPVerification.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.ScanShippingNoteNo.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.SearchShippingNoteNo.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.VerifyCustomerDetails.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.Properties.Resources.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ScanShippingNoteNo.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.SelectDropLocker.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.SelectEmployeeId.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ShippingNoteNo.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.SuccessfulDropMessage.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.TakePhoto.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.csproj.GenerateResource.Cache
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ADMIN.EmployeeRegistration.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ADMIN.ShippingDetails.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ADMIN.MainScreen.resources
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\AForge.dll
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\AForge.Video.DirectShow.dll
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\AForge.Video.dll
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\Antlr3.Runtime.dll
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\Newtonsoft.Json.dll
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\System.Web.Optimization.dll
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\WebGrease.dll
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\AForge.xml
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\AForge.Video.xml
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\AForge.Video.DirectShow.xml
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\Antlr3.Runtime.pdb
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\Newtonsoft.Json.xml
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\System.Web.Optimization.xml
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\Interop.AXVLC.dll
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\AxInterop.AXVLC.dll
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.csproj.ResolveComReference.cache
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\Interop.AXVLC.dll
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\AxInterop.AXVLC.dll
+D:\LatestProject\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.Form1.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\ParcelLockerKiosk.exe.config
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\Interop.AXVLC.dll
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\AxInterop.AXVLC.dll
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.csproj.ResolveComReference.cache
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.exe
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.pdb
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\ParcelLockerKiosk.exe
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\ParcelLockerKiosk.pdb
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\AForge.dll
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\AForge.Video.dll
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\Antlr3.Runtime.dll
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\Microsoft.Web.Infrastructure.dll
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\System.Web.Optimization.dll
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\WebGrease.dll
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\AForge.xml
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\AForge.Video.xml
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\Antlr3.Runtime.pdb
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\System.Web.Optimization.xml
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\Interop.AXVLC.dll
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\AxInterop.AXVLC.dll
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.csprojResolveAssemblyReference.cache
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.AdminLogin.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.AdminPanel.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ADMIN.EmployeeRegistration.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ADMIN.MainScreen.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ADMIN.ShippingDetails.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ChooseUserType.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ConfirmDetailsLockerOpen.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.Form1.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.Home.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.CollectParcel.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.CustomerPhotoWithIdCard.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.OTPVerification.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.ScanShippingNoteNo.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.SearchShippingNoteNo.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.VerifyCustomerDetails.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.Properties.Resources.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ScanShippingNoteNo.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.SelectDropLocker.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.SelectEmployeeId.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ShippingNoteNo.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.SuccessfulDropMessage.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.TakePhoto.resources
+C:\Users\ATPL\Desktop\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.csproj.GenerateResource.Cache
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\ParcelLockerKiosk.exe.config
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\Interop.AXVLC.dll
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\AxInterop.AXVLC.dll
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.csproj.ResolveComReference.cache
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.exe
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.pdb
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\ParcelLockerKiosk.exe
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\ParcelLockerKiosk.pdb
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\AForge.dll
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\AForge.Video.DirectShow.dll
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\AForge.Video.dll
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\Antlr3.Runtime.dll
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\Microsoft.Web.Infrastructure.dll
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\Newtonsoft.Json.dll
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\System.Web.Optimization.dll
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\WebGrease.dll
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\AForge.xml
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\AForge.Video.xml
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\AForge.Video.DirectShow.xml
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\Antlr3.Runtime.pdb
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\Newtonsoft.Json.xml
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\System.Web.Optimization.xml
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\Interop.AXVLC.dll
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\bin\Debug\AxInterop.AXVLC.dll
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.csproj.AssemblyReference.cache
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.AdminLogin.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.AdminPanel.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ADMIN.EmployeeRegistration.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ADMIN.MainScreen.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ADMIN.ShippingDetails.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ChooseUserType.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ConfirmDetailsLockerOpen.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.Form1.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.Home.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.CollectParcel.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.CustomerPhotoWithIdCard.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.OTPVerification.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.ScanShippingNoteNo.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.SearchShippingNoteNo.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.PICKUP.VerifyCustomerDetails.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.Properties.Resources.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ScanShippingNoteNo.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.SelectDropLocker.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.SelectEmployeeId.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.ShippingNoteNo.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.SuccessfulDropMessage.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.TakePhoto.resources
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.csproj.GenerateResource.cache
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLockerKiosk.csproj.CoreCompileInputs.cache
+D:\DESKTOPPPPPPPPPPPPPPPP\Damnnn Project T-T Final\ParcelLockerKiosk\ParcelLockerKiosk\obj\Debug\ParcelLo.9C77C61F.Up2Date

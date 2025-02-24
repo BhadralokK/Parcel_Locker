@@ -1,0 +1,359 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{0C91F7F7-7D2D-474E-BFD7-EF27A2DA2BC6}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>ParcelLockerKiosk</RootNamespace>
+    <AssemblyName>ParcelLockerKiosk</AssemblyName>
+    <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <WebGreaseLibPath>..\packages\WebGrease.1.5.2\lib</WebGreaseLibPath>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="AForge, Version=2.2.5.0, Culture=neutral, PublicKeyToken=c1db6ff4eaa06aeb, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.2.2.5\lib\AForge.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="AForge.Video, Version=2.2.5.0, Culture=neutral, PublicKeyToken=cbfb6e07d173c401, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.2.2.5\lib\AForge.Video.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="AForge.Video.DirectShow, Version=2.2.5.0, Culture=neutral, PublicKeyToken=61ea4348d43881b7, processorArchitecture=MSIL">
+      <HintPath>..\packages\AForge.Video.DirectShow.2.2.5\lib\AForge.Video.DirectShow.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Antlr3.Runtime, Version=3.4.1.9004, Culture=neutral, PublicKeyToken=eb42632606e9261f, processorArchitecture=MSIL">
+      <HintPath>..\packages\Antlr.3.4.1.9004\lib\Antlr3.Runtime.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Microsoft.VisualBasic" />
+    <Reference Include="Microsoft.Web.Infrastructure, Version=1.0.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.Web.Infrastructure.1.0.0.0\lib\net40\Microsoft.Web.Infrastructure.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=4.5.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.5.0.4\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.Configuration" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Speech" />
+    <Reference Include="System.Web.Optimization, Version=1.1.0.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\Microsoft.AspNet.Web.Optimization.1.1.3\lib\net40\System.Web.Optimization.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WebGrease, Version=1.5.2.14234, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
+      <HintPath>..\packages\WebGrease.1.5.2\lib\WebGrease.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AdminLogin.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminLogin.Designer.cs">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </Compile>
+    <Compile Include="AdminPanel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AdminPanel.Designer.cs">
+      <DependentUpon>AdminPanel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\EmployeeRegistration.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\EmployeeRegistration.Designer.cs">
+      <DependentUpon>EmployeeRegistration.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\MainScreen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\MainScreen.Designer.cs">
+      <DependentUpon>MainScreen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ADMIN\ShippingDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ADMIN\ShippingDetails.Designer.cs">
+      <DependentUpon>ShippingDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ChooseUserType.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ChooseUserType.Designer.cs">
+      <DependentUpon>ChooseUserType.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ConfirmDetailsLockerOpen.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ConfirmDetailsLockerOpen.Designer.cs">
+      <DependentUpon>ConfirmDetailsLockerOpen.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Form1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Form1.Designer.cs">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Home.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Home.Designer.cs">
+      <DependentUpon>Home.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Modulus\Dbconnect.cs" />
+    <Compile Include="Modulus\ModFUNCTIONS.cs" />
+    <Compile Include="Modulus\modSpeech.cs" />
+    <Compile Include="Modulus\Variables.cs" />
+    <Compile Include="PICKUP\CollectParcel.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PICKUP\CollectParcel.Designer.cs">
+      <DependentUpon>CollectParcel.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PICKUP\CustomerPhotoWithIdCard.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PICKUP\CustomerPhotoWithIdCard.Designer.cs">
+      <DependentUpon>CustomerPhotoWithIdCard.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PICKUP\OTPVerification.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PICKUP\OTPVerification.Designer.cs">
+      <DependentUpon>OTPVerification.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PICKUP\ScanShippingNoteNo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PICKUP\ScanShippingNoteNo.Designer.cs">
+      <DependentUpon>ScanShippingNoteNo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PICKUP\SearchShippingNoteNo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PICKUP\SearchShippingNoteNo.Designer.cs">
+      <DependentUpon>SearchShippingNoteNo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="PICKUP\VerifyCustomerDetails.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="PICKUP\VerifyCustomerDetails.Designer.cs">
+      <DependentUpon>VerifyCustomerDetails.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="ScanShippingNoteNo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ScanShippingNoteNo.Designer.cs">
+      <DependentUpon>ScanShippingNoteNo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectDropLocker.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectDropLocker.Designer.cs">
+      <DependentUpon>SelectDropLocker.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SelectEmployeeId.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SelectEmployeeId.Designer.cs">
+      <DependentUpon>SelectEmployeeId.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ShippingNoteNo.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ShippingNoteNo.Designer.cs">
+      <DependentUpon>ShippingNoteNo.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SuccessfulDropMessage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SuccessfulDropMessage.Designer.cs">
+      <DependentUpon>SuccessfulDropMessage.cs</DependentUpon>
+    </Compile>
+    <Compile Include="TakePhoto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="TakePhoto.Designer.cs">
+      <DependentUpon>TakePhoto.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="AdminLogin.resx">
+      <DependentUpon>AdminLogin.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="AdminPanel.resx">
+      <DependentUpon>AdminPanel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\EmployeeRegistration.resx">
+      <DependentUpon>EmployeeRegistration.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\MainScreen.resx">
+      <DependentUpon>MainScreen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ADMIN\ShippingDetails.resx">
+      <DependentUpon>ShippingDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ChooseUserType.resx">
+      <DependentUpon>ChooseUserType.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ConfirmDetailsLockerOpen.resx">
+      <DependentUpon>ConfirmDetailsLockerOpen.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Form1.resx">
+      <DependentUpon>Form1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Home.resx">
+      <DependentUpon>Home.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PICKUP\CollectParcel.resx">
+      <DependentUpon>CollectParcel.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PICKUP\CustomerPhotoWithIdCard.resx">
+      <DependentUpon>CustomerPhotoWithIdCard.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PICKUP\OTPVerification.resx">
+      <DependentUpon>OTPVerification.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PICKUP\ScanShippingNoteNo.resx">
+      <DependentUpon>ScanShippingNoteNo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PICKUP\SearchShippingNoteNo.resx">
+      <DependentUpon>SearchShippingNoteNo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="PICKUP\VerifyCustomerDetails.resx">
+      <DependentUpon>VerifyCustomerDetails.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <EmbeddedResource Include="ScanShippingNoteNo.resx">
+      <DependentUpon>ScanShippingNoteNo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectDropLocker.resx">
+      <DependentUpon>SelectDropLocker.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SelectEmployeeId.resx">
+      <DependentUpon>SelectEmployeeId.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ShippingNoteNo.resx">
+      <DependentUpon>ShippingNoteNo.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SuccessfulDropMessage.resx">
+      <DependentUpon>SuccessfulDropMessage.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="TakePhoto.resx">
+      <DependentUpon>TakePhoto.cs</DependentUpon>
+    </EmbeddedResource>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <COMReference Include="AxAXVLC">
+      <Guid>{DF2BBE39-40A8-433B-A279-073F48DA94B6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>aximp</WrapperTool>
+      <Isolated>False</Isolated>
+    </COMReference>
+    <COMReference Include="AXVLC">
+      <Guid>{DF2BBE39-40A8-433B-A279-073F48DA94B6}</Guid>
+      <VersionMajor>1</VersionMajor>
+      <VersionMinor>0</VersionMinor>
+      <Lcid>0</Lcid>
+      <WrapperTool>tlbimp</WrapperTool>
+      <Isolated>False</Isolated>
+      <EmbedInteropTypes>True</EmbedInteropTypes>
+    </COMReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\inner1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\btn-blnk.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\back.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\banner12.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\MainBanner1.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="bin\Debug\LockerImages\b1.png" />
+    <Content Include="bin\Debug\LockerImages\b2.png" />
+    <Content Include="bin\Debug\LockerImages\b3.png" />
+    <Content Include="bin\Debug\LockerImages\b4.png" />
+    <Content Include="bin\Debug\LockerImages\g1.png" />
+    <Content Include="bin\Debug\LockerImages\g2.png" />
+    <Content Include="bin\Debug\LockerImages\g3.png" />
+    <Content Include="bin\Debug\LockerImages\g4.png" />
+    <Content Include="bin\Debug\LockerImages\r1.png" />
+    <Content Include="bin\Debug\LockerImages\r2.png" />
+    <Content Include="bin\Debug\LockerImages\r3.png" />
+    <Content Include="bin\Debug\LockerImages\r4.png" />
+    <Content Include="bin\Debug\LockerImages\SnapSave.io-QR Scanner Animation.mp4" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
